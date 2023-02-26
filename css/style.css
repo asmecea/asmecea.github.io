@@ -235,7 +235,7 @@ body{
 }
 .about .image1 img{
   display: flex;
-  width: 50rem;
+  width: 38rem;
   height: 25rem;
 }
 
@@ -601,8 +601,8 @@ body{
 
   .about .row .image1 img{
     display: flex;
-    width: 25rem;
-    height: 12.5rem;
+    width: 20rem;
+    height: 13rem;
   }
 
  
